@@ -3,6 +3,8 @@
 
 @section('mainContent')
 
+  <section id="hero"></section>
+
   <section id="current_series_comics">
     <div class="container">
       <div class="label_current_series">current series</div>
