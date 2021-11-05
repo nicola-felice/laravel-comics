@@ -1,0 +1,23 @@
+
+.buy_comics_banner {
+  background-color: $main_color;
+
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+
+    li a {
+      display: flex;
+      align-items: center;
+      color: white;
+      text-decoration: none;
+      margin: 3rem 0;
+
+      img {
+        height: 45px;
+        margin-right: .75rem;
+      }
+    }
+  }
+}
